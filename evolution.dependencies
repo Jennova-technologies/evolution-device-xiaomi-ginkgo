@@ -1,18 +1,20 @@
 [
    {
-     "repository": "tejas101k/Cuh-Kernel",
+     "repository": "Jennova-technologies/evolution-kernel-xiaomi-ginkgo",
      "target_path": "kernel/xiaomi/ginkgo",
+     "branch": "UDC"
      "remote": "github"
    },
    {
-     "repository": "vendor_xiaomi_ginkgo",
+     "repository": "Jennova-technologies/evolution-vendor-xiaomi-ginkgo",
      "target_path": "vendor/xiaomi/ginkgo",
      "branch": "udc",
-     "remote": "evo-devices"
+     "remote": "github"
    },
    {
-     "repository": "tejas101k/vendor_miuicamera",
+     "repository": "Jennova-technologies/evolution-vendor-miuicamera",
      "target_path": "vendor/miuicamera",
-     "remote": "gitlab"
+     "branch": "udc"
+     "remote": "github"
    }
 ]
