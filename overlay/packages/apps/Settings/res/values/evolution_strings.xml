@@ -13,9 +13,7 @@
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
 
     <!-- ROM maintainer name -->
-    <string name="build_maintainer_summary">Tejas Singh (Automated)</string>
+    <string name="build_maintainer_summary">Tejas Singh</string>
     <string name="build_maintainer_donate_url">https://paypal.me/tejas101k</string>
 
-    <!-- Build status -->
-    <string name="build_status_summary" translatable="false">Weekly CI</string>
 </resources>
