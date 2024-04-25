@@ -189,6 +189,9 @@ vendor.gralloc.disable_ubwc=0
 # DRM
 drm.service.enabled=true
 
+# Scroll optimization
+ro.vendor.perf.scroll_opt=true
+
 # FRP
 ro.frp.pst=/dev/block/bootdevice/by-name/frp
 
@@ -200,6 +203,11 @@ ro.hardware.keystore_desede=true
 
 # Perf
 ro.vendor.extension_library=libqti-perfd-client.so
+
+# RAM
+ro.vendor.qti.sys.fw.bservice_enable=true
+ro.vendor.qti.sys.fw.bservice_age=10000
+ro.vendor.qti.sys.fw.bservice_limit=64
 
 # RIL
 persist.dbg.volte_avail_ovr=1
