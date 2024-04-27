@@ -30,7 +30,6 @@ $(call inherit-product, vendor/evolution/config/common_full_phone.mk)
 # Evolution-X Specific Flags
 TARGET_BOOT_ANIMATION_RES := 1080
 TARGET_SUPPORTS_QUICK_TAP := true
-TARGET_USES_PICO_GAPPS := true
 TARGET_BUILD_APERTURE_CAMERA := false
 TARGET_BUILD_VIMUSIC := true
 
